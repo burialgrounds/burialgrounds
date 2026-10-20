@@ -5,5 +5,5 @@
 they/it ‎ ‎ ‎ ‎ ‎ ‎ 22 ‎ ‎ ‎ ‎ ‎ ‎ queerthing
 </p>
 <p align="center">
-<a> strawpage</a> ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://toyhou.se/solitaryseer">toyhouse</a> ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://en.pronouns.page/@thecatacombs">xtra</a>
+<a href="https://burialground.straw.page/">strawpage</a> ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://toyhou.se/solitaryseer">toyhouse</a> ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://en.pronouns.page/@thecatacombs">xtra</a>
 </p>
