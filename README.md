@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/a8YIRrr.png" width="400" title="about" alt="about"/>
 </p>
 <p align="center">
-they/it ‎ ‎ ‎ ‎ ‎ ‎ 22 ‎ ‎ ‎ ‎ ‎ ‎ queer & unlabeled
+they/it ‎ ‎ ‎ ‎ ‎ ‎ 22 ‎ ‎ ‎ ‎ ‎ ‎ queerthing
 </p>
 <p align="center">
 <a> strawpage</a> ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://toyhou.se/solitaryseer">toyhouse</a> ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://en.pronouns.page/@thecatacombs">xtra</a>
