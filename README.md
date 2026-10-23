@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/a8YIRrr.png" width="400" title="about" alt="about"/>
+<img src="https://i.imgur.com/QUamMKI.png" width="600" title="about" alt="about"/>
 </p>
 <p align="center">
 they/it ‎ ‎ ‎ ‎ ‎ ‎ 22 ‎ ‎ ‎ ‎ ‎ ‎ queerthing
